@@ -100,7 +100,7 @@ function maxLengthCheck(object){
  function hoa(){      // 폼 제출하고 떙큐페이지 넘기는 함수
         alert("신청이 완료되었습니다.");
         $(window).scrollTop(0);
-        window.location.href = './result-oz.html';
+        window.location.href = './result.html';
  }
 
  
