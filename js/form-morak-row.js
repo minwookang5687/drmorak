@@ -60,7 +60,7 @@ form.innerHTML = `
                         <th>체험권 선택</th>
                         <td>
                             <select name="entry.756024446" id='coupon' class="form-control" placeholder="현재 조건">
-                                <option value="지역을 선택하세요" selected disabled>지역을 선택하세요
+                                <option value="체험권을 선택하세요" selected disabled>체험권을 선택하세요
                                 <option value='두피 정밀진단권'>두피 정밀진단권</option>
                                 <option value='두피/탈모 50% 체험권'>두피/탈모 50% 체험권</option>
                             </select>
@@ -70,7 +70,7 @@ form.innerHTML = `
                         <th>닥터모락<br>지점선택</th>
                         <td>
                             <select name="entry.1470172621" id='local' class="form-control" placeholder="현재 조건">
-                                <option value="탈모관리 체험 및 정밀진단 받을 지점선택" selected disabled>두피정밀진단 & 탈모관리 체험받을 지점선택
+                                <option value="두피정밀진단 & 탈모관리 체험받을 지점선택" selected disabled>두피정밀진단 & 탈모관리 체험받을 지점선택
                                     <option value='서울 건대점'>서울 건대점</option>
                                     <option value='서울 노원점'>서울 노원점</option>
                                     <option value='서울 당산점'>서울 당산점</option>
